@@ -1,0 +1,12 @@
+{
+  "name": "workflows",
+  "version": "0.0.1",
+  "description": "training from linkedin learning",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "?.git"
+  },
+  "author": "Paul Brennan",
+  "license": "ISC"
+}
